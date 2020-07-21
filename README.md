@@ -2,4 +2,6 @@
 
 Repositório para todas as aulas do https://www.cursoemvideo.com/
 
-Repositório criado durante uma aula ao vivo!
+Aulas:
+HTML5
+https://github.com/PisomD/Curso-em-video/tree/master/HTML5/projeto-ola-mundo
