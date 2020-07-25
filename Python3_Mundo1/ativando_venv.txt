@@ -1,0 +1,2 @@
+source mundo1/bin/activate
+
