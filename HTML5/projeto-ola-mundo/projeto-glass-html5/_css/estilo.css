@@ -1,12 +1,27 @@
 @charset "UTF-8";
 body{
 
-  background-color: hsla(165,81%,93%,0.5);
+  background-color: #dddddd;
   color: rgba(0,0,0,1);
+}
+div#interface{
+  width: 900px;
+  background-color: #ffffff;
+  margin: -20px auto 10px auto;
+  box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+  padding: 10px;/*ou 10px (em cima) 10px (esquerda) 10px (em baixo) 10px (direita)*/
 }
 p{
   text-align: justify;
   text-indent: 50px;
+}
+header#cabecalho img#icone {
+  position: absolute;
+  left: 780px;
+  top: 40pv;
+}
+header#cabecalho{
+  
 }
 /*Formatação de imagens com legends*/
 figure.foto-legenda{
