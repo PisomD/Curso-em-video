@@ -65,22 +65,19 @@ figure.foto-legenda figcaption{
   box-sizing: border-box;
   opacity: 0;
 }
-
 figure.foto-legenda figcaption{
   transition: opacity 1s;
 }
-
 figure.foto-legenda:hover figcaption{
   opacity: 1;
 }
-/*Formatação do menu*/
 nav#menu ul{
   list-syle: none;
   text-transform: uppercase;
   position: absolute;
   top: -20px;
   left: 300px;
-}
+}/*Formatação do menu*/
 nav#menu {
   display: block;
 }
@@ -104,4 +101,29 @@ nav#menu a{
 nav#menu a:hover{
   color: #ffffff;
   text-decoration: underline;
+}
+section#corpo{
+  display: block;
+  width: 500px;
+  float: left;
+  border-right: 1px solid #606060;
+  padding-right: 15px;
+}
+section#lateral{
+  display: block;
+  width: 300px;
+  float: right;
+}
+footer#rodape{
+  clear: both;
+  border-top: 1px solid #606060;
+  padding-top: 15px;
+}
+footer#rodape p{
+  text-align: center;
+  color: #000000;
+}
+footer#rodape a{
+  color: #606060;
+  font-family: Arial,sans-serif;
 }
