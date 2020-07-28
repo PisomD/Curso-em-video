@@ -109,10 +109,26 @@ section#corpo{
   border-right: 1px solid #606060;
   padding-right: 15px;
 }
+table#tabelaspec{
+  border: 1px solid #606060;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table#tabelaspec td{
+  border: 1px solid #606060;
+  padding: 10px;
+  text-align: right;
+  vertical-align: middle;
+}
+table#tabelaspec tr{
+  text-align: left;
+}
 section#lateral{
   display: block;
   width: 300px;
   float: right;
+
 }
 footer#rodape{
   clear: both;
