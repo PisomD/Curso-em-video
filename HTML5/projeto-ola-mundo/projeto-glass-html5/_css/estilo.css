@@ -38,3 +38,35 @@ figure.foto-legenda figcaption{
 figure.foto-legenda:hover figcaption{
   opacity: 1;
 }
+/*Formatação do menu*/
+nav#menu ul{
+  list-syle: none;
+  text-transform: uppercase;
+  position: absolute;
+  top: -20px;
+  left: 300px;
+}
+nav#menu {
+  display: block;
+}
+nav#menu li{
+  display: inline-block;
+  background-color: #dddddd;
+  padding: 4px;
+  margin: 2px;
+  transition: background-color 1s;
+}
+nav#menu li:hover{
+  background-color: #606060;
+}
+nav#menu h1{
+  display: none;
+}
+nav#menu a{
+  color #000000;
+  text-decoration: none;
+}
+nav#menu a:hover{
+  color: #ffffff;
+  text-decoration: underline;
+}
