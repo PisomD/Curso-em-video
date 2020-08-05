@@ -1,4 +1,4 @@
-# <t>Curso-em-video
+![Logo-curso-em-video](https://github.com/PisomD/Curso-em-video/blob/master/Images/Logo-Curso-em-video-Azul.png)
 
 Repositório para todas as aulas do https://www.cursoemvideo.com/
 
