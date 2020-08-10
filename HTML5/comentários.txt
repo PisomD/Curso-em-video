@@ -1,0 +1,74 @@
+Formatação
+<b>Bold</b>
+<i>Itálico</i>
+<em> enfase</em>
+<del>texto deletado(mesmo q <s>)</del>
+<span style="text decoration: underline;"></span><!--CSS-->
+<span style="text decoration: overline;"></span><!--CSS-->
+<span style="text decoration: none;"></span><!--CSS-->
+<span style="text decoration: line-trough;"></span><!--CSS-->
+<span style="text font-weight: bold"></span><!--CSS-->
+<span style="text font-weight: bolder"></span><!--CSS-->
+<span style="text font-weight: 400"></span><!--CSS-->
+    <h2 style="text-align: center;"></h2><!--tags de alinhamento-->
+
+    <p>Tags que não são mais usadas
+<u></u>
+<s></s>
+
+<p> Exemplos de <sub>Formatação</sub><sup>Formatação</sup></p>
+<pre> <!--pré formatado-->
+    <code><!--adicionar formatação de cód-->
+    #include &lt;iostream&gt;
+    int main(){
+        cout <<"olá, Mundo!";
+        return 0;
+    }
+</code>
+</pre>
+</p>
+ADICIONAR IAMGENS
+<img src="caminho do arquivo"/>
+
+QUEBRAS
+<!--wbr word breaker/quebra de palavras--><!--&shy soft hyphen/adiciona hifen na quebra de palavras-->
+<!--<br/> brake row/quebra linha-->
+<!--<p></p>paragraph-->
+
+Simbolos especiais
+<!--&lt = menor que< |  &le menor ou igual <=
+&gt = maior que> |  &ge maior ou igual =>
+Simbolos monetários
+
+&pound; Libras
+&yen; yenes
+&euro; Euros
+
+&copy; = copyright
+&reg; = marca registrada
+&trade; = trade mark
+
+&permil = permil
+&sum = soma
+&infin
+&times;
+&pulsmn
+&oplus
+&radic
+&ne;
+
+&delta;
+&lambda;
+&omega;
+&phi
+
+&larr;
+&rarr;
+&uarr;
+&darr;
+&harr;
+&spades;
+&clubs
+&hearts
+&diams
+-->
