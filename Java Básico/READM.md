@@ -6,7 +6,7 @@ Professor: <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>
 
 Conteúdo:
 
-![check](/home/davi/Documents/GitHub/Curso-em-video/img/06ae072fb343a704ee80c2c55d2da80a.gif)
+![check](https://github.com/PisomD/Curso-em-video/blob/JavaBasico/Images/check.gif)
 Aula 1 – História do Java
 
 Exercícios de Java #01
