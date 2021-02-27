@@ -6,12 +6,11 @@ Professor: <a href="https://github.com/gustavoguanabara">Gustavo Guanabara</a>
 
 Conteúdo:
 
-![logojava](/home/davi/Documents/GitHub/Curso-em-video/Images/logojava.png)
+![logojava](Images/java-logo-300x300.jpg")
 <h1>aula 1 – História do Java</h1>
 aula 02 – Como Funciona o Java</h1>
 Conteúdo para o Curso de Java
 <h1>aula 3 – Instalando o JDK no seu Computador</h1>
-<h2>Exercícios de Java #03<h2>
 
 <h1>aula 4 – Primeiro Programa em Java</h1>
 
